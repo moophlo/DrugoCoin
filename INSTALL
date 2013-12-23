@@ -1,9 +1,9 @@
-Building Litecoin
+Building Drugocoin
 
-See doc/readme-qt.rst for instructions on building Litecoin-Qt,
+See doc/readme-qt.rst for instructions on building Drugocoin-Qt,
 the intended-for-end-users, nice-graphical-interface, reference
-implementation of Litecoin.
+implementation of Drugocoin.
 
-See doc/build-*.txt for instructions on building litecoind,
+See doc/build-*.txt for instructions on building drugocoind,
 the intended-for-services, no-graphical-interface, reference
-implementation of Litecoin.
+implementation of Drugocoin.
